@@ -1,0 +1,1 @@
+This project explores how team-level statistics in Major League Baseball relate to postseason success. It includes data collection (via Kaggle and web scraping), data cleaning and merging, machine learning models, and forecasts for the 2025 season.
